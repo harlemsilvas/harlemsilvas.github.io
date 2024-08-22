@@ -22,3 +22,27 @@
     background: #CC3232;
     color: white;
 }
+.section-conhecimentos {
+    background-color: #161616;
+    color: white;    
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.knowedge img {
+    width: 20%;
+    margin-right: .5rem;
+}
+.knowedge {
+    text-align: left;
+}
+.knowedge span {
+    color: #707070;
+    font-weight: 300;
+}
+.knowedge p {
+    font-size: 1.2rem;    
+}
+.spacing {
+    margin-top: 5rem !important;
+    margin-bottom: 5rem !important;
+}
