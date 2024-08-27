@@ -76,10 +76,10 @@
     margin-bottom: 2rem;
 }
 .form-contact input {
-    width: 100%;
-    border: 1px solid #707070;
+    width: 100%;    
+    border: 1px solid #707070;    
     background: none;
-    border-radius: 10px ;
+    border-radius: 10px;
     padding: 0.4rem 0.8rem;
     color: white;
     font-weight: 300;
@@ -103,3 +103,4 @@
     border-radius: 10px;
     color: white;
 }
+
